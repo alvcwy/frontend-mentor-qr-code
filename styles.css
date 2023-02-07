@@ -1,0 +1,45 @@
+body {
+    /* Light grey */
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+
+.white_box {
+    border-radius: 20px; /* Round corners */
+    background-color: white;
+    text-align: center;
+
+    width: 300px;
+    /* To prevent div from shrinking on mobile */
+    min-width: 300px;  
+    height: auto;
+
+    /* Center div, move it a bit lower */
+    margin: auto;
+
+    /* Move white box down, minimum 100px */
+    margin-top: max(10%, 100px);
+}
+
+/* QR code image */
+#qr_code {
+    border-radius: 20px;
+    padding: 5%;
+    width: 90%;
+    height: auto;
+}
+
+.text {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.footer { font-size: 11px; text-align: center; padding-top: 10px;}
+.footer a { color: hsl(228, 45%, 44%); }
