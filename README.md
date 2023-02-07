@@ -12,8 +12,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,7 +20,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Live at: [https://alvcwy.github.io/frontend-mentor-qr-code/](alvcwy.github.io/frontend-mentor-qr-code/)
+- Live at: [https://alvcwy.github.io/frontend-mentor-qr-code/](https://alvcwy.github.io/frontend-mentor-qr-code/)
 
 ## My process
 
